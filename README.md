@@ -13,9 +13,9 @@ Accès à la console pour vérifier la structure de la BDD
 
 
 ## Résumé du projet
-- Création d'un site où les utilisateurs peuvent créer des "pins"
-- Chauqe pin contient une URL d'une image sur le net
-- Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires
+- Création d'un 'message board'
+- Les utilisateurs peuvent poster des liens
+- Les autres utilisateurs peuvent commenter les liens soumis, ou commenter les commentaires
 
 ## Structure de la BDD
 
